@@ -6,6 +6,8 @@
 - Instagram - https://www.instagram.com/phoenix_sharma__/
 - Linkedin - https://www.linkedin.com/in/akshay-sharma-b2b4851ba/
 
+- https://linktr.ee/phoenix_sharma
+
 <!---
 Pheonix-5/Pheonix-5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
