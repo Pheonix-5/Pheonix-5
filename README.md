@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Pheonix-5
-- 🌱 Passionate Game Developer <3
-- ------------Life is Also like a game, better be a developer then a shitty NPC player------------- 
-- Fast learner, and love to code :)
+ ------------Life is Also like a game, better be a developer then a shitty NPC player------------- 
+
+- 👋 Hi, Myself Akshay Sharma pen name Phoenix
+- 🌱 Passionate Game Developer <3 Fast learner, and love to code :)
 - 📫 How to reach me 
 - Email - <8859akshaysharma@gmail.com>
 - Instagram - https://www.instagram.com/phoenix_sharma__/
@@ -9,7 +9,7 @@
 
 - https://linktr.ee/phoenix_sharma
 
-- 
+ yeah ik my username doesn't have right speeling :) 
 
 <!---
 Pheonix-5/Pheonix-5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
